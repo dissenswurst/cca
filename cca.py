@@ -23,7 +23,7 @@ labels = [
 ]
 
 # Create the Streamlit application
-st.title("Omnichannel Commerce Maturity Assessment")
+st.title("Connected Commerce Maturity Assessment")
 
 # Initialize an empty list to store the responses
 responses = []
